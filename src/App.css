@@ -2,6 +2,7 @@
   width: 100%;
   margin: auto;
   font-family: proxima-nova;
+  overflow-x: hidden;
 }
 
 .hero {
@@ -115,7 +116,6 @@ a:visited {
   max-width: 800px;
   margin: auto;
   padding: 0 0 25px 0;
-
 }
 
 .portfolio-flex-item {
@@ -139,7 +139,8 @@ a:visited {
   height: 30px;
 }
 
-.blog a:link, a:visited {
+.blog a:link,
+a:visited {
   color: white;
 }
 

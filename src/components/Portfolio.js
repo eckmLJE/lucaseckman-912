@@ -5,7 +5,7 @@ const Portfolio = () => {
     <Fragment>
       <div className="portfolio-header">
         <p>
-          <strong>Check out my work.</strong> These projects feature ReactJS,
+          <strong>Check out my work.</strong> The below projects feature ReactJS,
           Javascript ES6, and Ruby on Rails.
         </p>
       </div>

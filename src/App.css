@@ -156,6 +156,8 @@ a:visited {
   .hero-links-mobile {
     position: fixed;
     bottom: 0;
+    padding-right: 0px;
+    padding-left: 5px;
   }
 
   .portfolio-flex-container {

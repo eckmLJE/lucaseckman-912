@@ -11,7 +11,7 @@ const Bio = () => {
         engineering to take advantage of technology's potential to address the
         greatest challenges of the urban built environment.
       </p>
-      <p>Lucas is also a part-time bicycle courier for Urban Stems.</p>
+      <p>Lucas moonlights as a part-time bicycle courier for Urban Stems.</p>
     </div>
   );
 };

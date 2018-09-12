@@ -32,7 +32,7 @@ const Portfolio = () => {
           <h4>Parsel</h4>
           <p>
             Highlight text within a document and write corresponding
-            annotations. Read the
+            annotations. Read the{" "}
             <a href="https://medium.com/@lucas.eckman/easy-as-1-2-3-cdca597f35a6">
               blog post
             </a>.

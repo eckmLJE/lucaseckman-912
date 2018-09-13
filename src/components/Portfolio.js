@@ -5,8 +5,8 @@ const Portfolio = () => {
     <Fragment>
       <div className="portfolio-header">
         <p>
-          <strong>Check out my work.</strong> The below projects feature ReactJS,
-          Javascript ES6, and Ruby on Rails.
+          <strong>Check out my work.</strong> The below projects feature
+          ReactJS, Javascript ES6, and Ruby on Rails.
         </p>
       </div>
       <div className="portfolio-flex-container">
@@ -17,7 +17,9 @@ const Portfolio = () => {
             filters. Floor plans are generated dynamically in SVG from
             dimensions in database.
           </p>
-          <p>Coming Soon.</p>
+          <p>
+            <a href="http://www.lucaseckman.com/roomseek">Check it out here.</a>
+          </p>
         </div>
         <div className="portfolio-flex-item">
           <h4>ConcertPlan</h4>
@@ -35,7 +37,8 @@ const Portfolio = () => {
             annotations. Read the{" "}
             <a href="https://medium.com/@lucas.eckman/easy-as-1-2-3-cdca597f35a6">
               blog post
-            </a>.
+            </a>
+            .
           </p>
           <p>Coming Soon.</p>
         </div>

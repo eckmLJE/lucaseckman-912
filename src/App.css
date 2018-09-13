@@ -42,7 +42,7 @@
 }
 
 .hero-links a:link,
-a:visited {
+.hero-links a:visited {
   text-decoration: none;
   color: white;
 }
@@ -81,7 +81,7 @@ a:visited {
 }
 
 .mobile-item a:link,
-a:visited {
+.mobile-item a:visited {
   text-decoration: none;
   color: white;
 }
@@ -98,14 +98,18 @@ a:visited {
   font-size: 1.2em;
 }
 
+.bio-header {
+  font-size: 1.3em;
+}
+
 .portfolio-header {
   align-content: center;
   width: 80%;
   max-width: 800px;
   margin: auto;
   margin-top: 25px;
-  margin-bottom: 50px;
-  font-size: 1.2em;
+  margin-bottom: 30px;
+  font-size: 1.4em;
 }
 
 .portfolio-flex-container {
@@ -125,6 +129,11 @@ a:visited {
   padding-right: 10px;
 }
 
+.portfolio-flex-item a:link,
+.portfolio-flex-item a:visited {
+  color: black;
+}
+
 .blog {
   padding: 25px 0 75px 0;
   width: 80%;
@@ -142,7 +151,7 @@ a:visited {
 }
 
 .blog a:link,
-a:visited {
+.blog a:visited {
   color: white;
 }
 
@@ -186,5 +195,4 @@ a:visited {
     font-size: 1.2em;
     padding-left: 20px;
   }
-
 }

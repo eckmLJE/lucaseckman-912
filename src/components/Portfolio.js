@@ -18,7 +18,8 @@ const Portfolio = () => {
             dimensions in database.
           </p>
           <p>
-            <a href="http://www.lucaseckman.com/roomseek">Check it out here.</a>
+            <a target="_blank"
+            rel="noopener noreferrer" href="http://www.lucaseckman.com/roomseek">Check it out here.</a>
           </p>
         </div>
         <div className="portfolio-grid-item">
@@ -38,7 +39,8 @@ const Portfolio = () => {
           </p>
           <p>
             Read the{" "}
-            <a href="https://medium.com/@lucas.eckman/easy-as-1-2-3-cdca597f35a6">
+            <a target="_blank"
+            rel="noopener noreferrer" href="https://medium.com/@lucas.eckman/easy-as-1-2-3-cdca597f35a6">
               blog post
             </a>
             .
@@ -52,7 +54,8 @@ const Portfolio = () => {
           </p>
           <p>
             See it on{" "}
-            <a href="https://codepen.io/eckmlje/pen/mjLWWE">Codepen</a>.
+            <a target="_blank"
+            rel="noopener noreferrer" href="https://codepen.io/eckmlje/pen/mjLWWE">Codepen</a>.
           </p>
         </div>
       </div>

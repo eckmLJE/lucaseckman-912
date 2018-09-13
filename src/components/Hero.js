@@ -20,15 +20,18 @@ class Hero extends Component {
           <div className="hero-title">LUCAS ECKMAN</div>
           <div className="hero-links">
             <div className="hero-link">
-              <a href="https://github.com/eckmLJE">GITHUB</a>
+              <a target="_blank"
+            rel="noopener noreferrer" href="https://github.com/eckmLJE">GITHUB</a>
             </div>
             <div className="hero-link">
-              <a href="https://www.linkedin.com/in/lucas-eckman-1a707717/">
+              <a target="_blank"
+            rel="noopener noreferrer" href="https://www.linkedin.com/in/lucas-eckman-1a707717/">
                 LINKEDIN
               </a>
             </div>
             <div className="hero-link">
-              <a href="mailto:hello@lucaseckman.com">CONTACT</a>
+              <a target="_blank"
+            rel="noopener noreferrer" href="mailto:hello@lucaseckman.com">CONTACT</a>
             </div>
           </div>
         </div>

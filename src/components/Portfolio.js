@@ -11,6 +11,23 @@ const Portfolio = () => {
       </div>
       <div className="portfolio-grid-container">
         <div className="portfolio-grid-item">
+          <h4>ConcertPlan</h4>
+          <p>
+            View upcoming concerts and make plans with your friends to attend
+            them. Calls Ticketmaster API for resale market and persists "plans"
+            in back end for groups of friends.
+          </p>
+          <p>
+            <a
+              target="_blank"
+              rel="noopener noreferrer"
+              href="http://www.lucaseckman.com/concertplan"
+            >
+              Find it here.
+            </a>
+          </p>
+        </div>
+        <div className="portfolio-grid-item">
           <h4>RoomSeek</h4>
           <p>
             View available bedrooms in a coliving apartment using various
@@ -18,18 +35,14 @@ const Portfolio = () => {
             dimensions in database.
           </p>
           <p>
-            <a target="_blank"
-            rel="noopener noreferrer" href="http://www.lucaseckman.com/roomseek">Check it out here.</a>
+            <a
+              target="_blank"
+              rel="noopener noreferrer"
+              href="http://www.lucaseckman.com/roomseek"
+            >
+              Check it out here.
+            </a>
           </p>
-        </div>
-        <div className="portfolio-grid-item">
-          <h4>ConcertPlan</h4>
-          <p>
-            View upcoming concerts and make plans with your friends to attend
-            them. Calls Ticketmaster API for resale market and persists "plans"
-            in back end for groups of friends.
-          </p>
-          <p>Coming Soon.</p>
         </div>
         <div className="portfolio-grid-item">
           <h4>Parsel</h4>
@@ -39,8 +52,11 @@ const Portfolio = () => {
           </p>
           <p>
             Read the{" "}
-            <a target="_blank"
-            rel="noopener noreferrer" href="https://medium.com/@lucas.eckman/easy-as-1-2-3-cdca597f35a6">
+            <a
+              target="_blank"
+              rel="noopener noreferrer"
+              href="https://medium.com/@lucas.eckman/easy-as-1-2-3-cdca597f35a6"
+            >
               blog post
             </a>
             .
@@ -54,8 +70,14 @@ const Portfolio = () => {
           </p>
           <p>
             See it on{" "}
-            <a target="_blank"
-            rel="noopener noreferrer" href="https://codepen.io/eckmlje/pen/mjLWWE">Codepen</a>.
+            <a
+              target="_blank"
+              rel="noopener noreferrer"
+              href="https://codepen.io/eckmlje/pen/mjLWWE"
+            >
+              Codepen
+            </a>
+            .
           </p>
         </div>
       </div>
